@@ -13,3 +13,8 @@ testcases.push("ETF");
 console.log("THE LAST TEST CASE IS:", testcases[testcases.length-1]);
 // PRINT ALL TEST CASES
 console.log("ALL TEST CASES ARE:", testcases);
+
+for(let i= 0;i<testcases.length;i++)
+    {
+console.log("TEST CASES ARE:", testcases[i]);
+}
