@@ -1,0 +1,7 @@
+let bugscount = 23;
+if (bugscount > 20) {
+    console.log("There are too many bugs!");
+}else
+{
+    console.log("Bug count is acceptable.");
+}
