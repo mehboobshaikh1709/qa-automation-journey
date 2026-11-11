@@ -1,0 +1,13 @@
+
+
+Testcases = [
+"IPO",
+"SIP bond",
+"Fixed deposit",
+"Mutual fund"
+];
+
+for(let testcase of Testcases)//let se ek variable banaya jisse hum Testcases array ke elements ko access kar sake
+    {
+    console.log("Investment testcses are : ",testcase);
+}
